@@ -1,5 +1,5 @@
 # G-CREWE
-#### G-CREWE: Graph CompREssion With Embedding for Network Alignment
+### G-CREWE: Graph CompREssion With Embedding for Network Alignment
 Kyle K. Qin, Flora D. Salim, Yongli Ren, Wei Shao, Mark Heimann, and Danai Koutra.
 
 In The 29th ACM International Conference on Information and Knowledge Management, 2020.
