@@ -199,7 +199,7 @@ class ShrinkMap:
                         aSubNodesNum + bSubNodesNum))
             for i in range(q):
                 cNeighWeights.append(bOnlyNeighWeights[i])
-        else:  # shrink
+        elif self.merge_mode == 4:  # shrink
             index = 0
             edge_num = p + r + q
             C = []
